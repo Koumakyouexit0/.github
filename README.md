@@ -6,9 +6,7 @@ LumineFederator is an KomeLab-Based Project focus on Simple and ...
 > **Miku？**
 
 ## Contact
-
-- Headquarters: https://koumakyouexit0.github.io/Koumakyouexit0
-
+Nothing here, wait!
 > Feel free, everything in here working no money!
 
 [![LumineFederator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koumakyouexit0)](https://github.com/anuraghazra/github-readme-stats)
